@@ -83,7 +83,7 @@ a:visited {
   color: #FFF;
 }
 
-#sidfot {clear: both; width:100%; background: #C0C0C0; border-bottom: 1px solid #C3BB38;position: fixed;bottom: 20px;}
+#sidfot {clear: both; width:100%; background: #C0C0C0; border-bottom: 1px solid #C0C0C0;position: fixed;bottom: 10px;}
 /************
     MAIN
 *************/
