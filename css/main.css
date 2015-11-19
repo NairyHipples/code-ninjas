@@ -87,12 +87,10 @@ a:visited {
 clear: both; 
 width:100%; 
 padding: 10px;
-background: #F0F0F0; 
 position: fixed;
-
+background-color: #232323
+border-top: 13px solid #C3BB38 
 margin: 0px auto;
-border-top: 1px solid #C0C0C0;
-bottom: 20px;
 text-align: center;
 }
 /************
