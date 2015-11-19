@@ -83,8 +83,10 @@ a:visited {
   color: #FFF;
 }
 
-#sidfot {clear: both; 
+#sidfot {
+clear: both; 
 width:100%; 
+padding: 10px;
 background: #F0F0F0; 
 position: fixed;
 height: 25px;
