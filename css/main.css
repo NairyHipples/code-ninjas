@@ -115,6 +115,13 @@ section {
   border-color: #5C5C5C;
 }
 /************
+   ARTICLE
+*************/
+article {
+  border-bottom: 2px solid #C3BB38;
+  margin-bottom: 40px;
+}
+/************
    FOOTER
 ************/
 #sidfot {
@@ -186,9 +193,17 @@ div.copyright {
   margin-top: 30px;
 }
 
+/************
+   IMAGES
+************/
 .blog {
   width: 350px;
   display: block;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  padding: 4px;
+  background-color: #E3D93B;
+  border: 8px solid #C3BB38;
 }
 
 .ninja-divider {
