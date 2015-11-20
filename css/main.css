@@ -186,6 +186,11 @@ div.copyright {
   margin-top: 30px;
 }
 
+.blog {
+  width: 350px;
+  display: block;
+}
+
 .ninja-divider {
   width: 350px;
   padding-top: 60px;
